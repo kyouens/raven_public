@@ -1,0 +1,8 @@
+langchain
+streamlit
+openai
+qdrant-client
+grpcio-tools
+python-dotenv
+tiktoken
+langchain-community
